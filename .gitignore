@@ -1,3 +1,5 @@
+s4s_cfg/*
+
 # Azure az webapp deployment details
 .azure
 *_env
